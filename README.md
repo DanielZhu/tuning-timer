@@ -43,6 +43,8 @@ tuningTimer3.clearInterval();
 For test the module, please run the commands below:
 `npm run dev`
 
+<img width="360px" src="https://raw.githubusercontent.com/Staydan/Totoro_staydan.com_website/master/app/res/images/preImgs/tuning.timer/tuning.png">
+
 Lisence @Apache-2.0 
 
 Copyright to @2012-2016 [Staydan.com](http://staydan.com)
